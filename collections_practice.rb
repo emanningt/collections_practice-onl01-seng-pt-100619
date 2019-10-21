@@ -50,7 +50,7 @@ def add_s(array)
   end
 end
 
-def swap_elements_from_to(array,inx, new_inx)
+#def swap_elements_from_to(array,inx, new_inx)
   array[idx], array[new_idx] = array[new_idx], array[idx]
   array
   
